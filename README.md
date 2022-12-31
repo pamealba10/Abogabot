@@ -5,8 +5,7 @@ Diseño de app para un buffet de abogados elaborado en Figma y miro.
 
 
 <p><iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP2YqIIE=/?moveToViewport=-1446,-1616,3795,1736&embedId=209802258378" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe></p>
-<div>
+
 ![figmaabogabot](https://user-images.githubusercontent.com/106121745/210123792-685a9528-9130-43e0-bc2a-cfa098c9ca74.png)
-</div>
 
 ![figmaabogabot2](https://user-images.githubusercontent.com/106121745/210123798-4e141a84-ceda-46fc-9ce8-8763167a0686.png)
